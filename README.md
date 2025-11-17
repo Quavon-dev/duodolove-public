@@ -7,7 +7,7 @@
 ![Swift](https://img.shields.io/badge/Swift-5.9-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-9ACD32?style=for-the-badge)
 
-**Eine moderne iOS-App für Sprachlerner**
+**Eine moderne iOS-App für Liebende**
 
 [Website](https://duodolove.de) • [Quavon](https://quavon.de) • [Zugang beantragen](#-zugang-erhalten)
 
@@ -17,7 +17,7 @@
 
 ## 📱 Über DuodoLove
 
-DuodoLove ist eine innovative iOS-Anwendung, die dein Sprachlernerlebnis auf die nächste Ebene hebt. Mit modernster SwiftUI-Technologie und durchdachten Features bietet die App eine nahtlose und intuitive Benutzererfahrung.
+DuodoLove ist eine innovative iOS-Anwendung, die dein Liebes Erlebnis auf die nächste Ebene hebt. Mit modernster SwiftUI-Technologie und durchdachten Features bietet die App eine nahtlose und intuitive Benutzererfahrung.
 
 🌐 **Website:** [duodolove.de](https://duodolove.de)  
 👨‍💻 **Entwickelt von:** [Quavon](https://quavon.de)
