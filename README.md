@@ -34,7 +34,7 @@ DuodoLove ist eine innovative iOS-Anwendung, die dein Liebes Erlebnis auf die n�
 
 DuodoLove befindet sich derzeit in der Beta-Phase. Um Zugang zur App zu erhalten:
 
-📧 **Sende eine E-Mail an:** [access@duodolove.de](mailto:access@duodolove.de)
+📧 **Sende eine E-Mail an:** [mail@duodolove.de](mailto:mail@duodolove.de)
 
 Du erhältst dann eine Einladung zum TestFlight-Programm und kannst die App ausgiebig testen!
 
@@ -120,7 +120,7 @@ Dieses Repository dient **ausschließlich** für:
 
 - 🌐 **Website:** [duodolove.de](https://duodolove.de)
 - 👨‍💻 **Entwickler:** [Quavon](https://quavon.de)
-- 📧 **Zugang:** [access@duodolove.de](mailto:access@duodolove.de)
+- 📧 **Zugang:** [mail@duodolove.de](mailto:mail@duodolove.de)
 - 🐛 **Bug Reports:** [GitHub Issues](https://github.com/Quavon-dev/duodolove-public/issues)
 
 ## 🙏 Danksagungen
@@ -133,6 +133,6 @@ Vielen Dank an alle Beta-Tester und Community-Mitglieder, die durch ihr Feedback
 
 **Gemacht mit ❤️ von [Quavon](https://quavon.de)**
 
-[Website](https://duodolove.de) • [Zugang beantragen](mailto:access@duodolove.de) • [Issues](https://github.com/Quavon-dev/duodolove-public/issues)
+[Website](https://duodolove.de) • [Zugang beantragen](mailto:mail@duodolove.de) • [Issues](https://github.com/Quavon-dev/duodolove-public/issues)
 
 </div>
